@@ -15,4 +15,4 @@ The following steps are required to install and run the script.
 10. cd
 11. ./install.sh
 
-Once the install at is complete, the Adafruit credentials in /Prograsm/pythonScripts/publish2Cloud.py need to be updated to the real values before running AtMoS 
+Once the install at is complete, the Adafruit credentials in /Prograsm/pythonScripts/publish2Cloud.py need to be updated to the real values before running AtMoS.  To copy the API Key from a browser instance of io.adafruit.com, you will need to use shift ctrl C for copy and shift ctrl V for paste.

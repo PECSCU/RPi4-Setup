@@ -13,7 +13,7 @@ sudo python setup.py install -y
 cd
 git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
 cd Adafruit_Python_GPIO
-sudo python3 setup.py install
+sudo python3 setup.py install -y
 
 cd
 pip3 install setuptools

@@ -19,7 +19,7 @@ cd
 pip3 install setuptools
 pip3 install wheel
 pip3 install adafruit-io
-sudo apt install mono-complete
+sudo apt install mono-complete -y
 
 cd
 mkdir Programs
